@@ -16,7 +16,8 @@
     "plugins": [
       {
         "name": "next"
-      }
+  
+      },
     ],
     "paths": {
       "@/*": ["./src/*"]
@@ -31,4 +32,5 @@
     "**/*.mts"
   ],
   "exclude": ["node_modules"]
+  
 }
